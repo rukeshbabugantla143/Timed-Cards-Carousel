@@ -2,7 +2,7 @@
 
 A visually-rich, timed card carousel / slideshow using **GSAP**. Cards slide in from the side and the active card expands to full-screen with animated details panels. Ideal as a hero section or a portfolio demo.
  
-Video demo (short): replace with your YouTube shorts link — `https://youtu.be/your-short-id`
+Video demo (short): replace with your YouTube shorts link — `https://youtube.com/shorts/YYZb7tqwC0Y?feature=share`
 
 ---
 ## Features
